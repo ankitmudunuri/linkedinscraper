@@ -1,0 +1,3 @@
+Machine Learning,https://www.linkedin.com/jobs/search?keywords=Machine%20Learning&location=United%20States&locationId=&geoId=103644278&f_TPR=&f_E=1&position=1&pageNum=0
+Artificial Intelligence,https://www.linkedin.com/jobs/search?keywords=Artificial%20Intelligence&location=United%20States&locationId=&geoId=103644278&f_TPR=&f_E=1&position=1&pageNum=0
+Deep Learning,https://www.linkedin.com/jobs/search?keywords=Deep%20Learning&location=United%20States&locationId=&geoId=103644278&f_TPR=&f_E=1&position=1&pageNum=0
